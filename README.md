@@ -7,11 +7,16 @@ Aclaración: Funciona en Termux y en las otras distros Linux Guia de uso
 
 Instalación:
 
-sudo apt-get install git -y
+sudo apt-get install git -yq
+
 git clone https://github.com/Surv1v0rH4cking/CodeFGen
+
 cd CodeFGen
+
 chmod 777 CodeFGen.sh
+
 ./CodeFGen.sh
+
 Alternativo: bash CodeFGen.sh
 
 Su funcionamiento es facil solo deben ingresar los datos que les pide. Los formatos de archivos los deben agregar sin el punto
